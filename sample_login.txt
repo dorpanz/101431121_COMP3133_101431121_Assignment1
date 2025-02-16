@@ -1,0 +1,3 @@
+query {
+  login(username: "daria", password: "password123")
+}
